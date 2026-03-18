@@ -1,15 +1,15 @@
 # 🎬 Animation Tab UI
 
-A modern animated tab interface built using HTML, CSS, and JavaScript. This project focuses on smooth transitions, interactive tab switching, and a clean user interface to enhance user experience.
+A modern animated tab interface built using HTML and CSS. This project focuses on smooth transitions, stylish tab switching, and a clean user interface without using JavaScript.
 
 ---
 
 ## 🚀 Features
 
-- 🎯 Interactive tab switching  
+- 🎯 Pure CSS tab switching  
 - 🎨 Smooth animations and transitions  
 - ⚡ Lightweight and fast performance  
-- 📱 Responsive design  
+- 📱 Fully responsive design  
 - 💻 Clean and minimal UI  
 
 ---
@@ -18,7 +18,6 @@ A modern animated tab interface built using HTML, CSS, and JavaScript. This proj
 
 - HTML  
 - CSS  
-- JavaScript  
 
 ---
 
@@ -27,7 +26,6 @@ A modern animated tab interface built using HTML, CSS, and JavaScript. This proj
     animation-tab/
     │── index.html
     │── style.css
-    │── script.js
     │── README.md
     │── LICENSE
 
@@ -58,25 +56,25 @@ xdg-open index.html
 
 1. Open the application  
 2. Click on different tabs  
-3. Watch smooth transitions and animations  
-4. View dynamic content changes  
+3. CSS handles the switching logic  
+4. Watch smooth transitions between sections  
 
 ---
 
 ## 🖼️ Output
 
 - Animated tab interface  
-- Smooth UI transitions  
+- Smooth CSS transitions  
 - Responsive layout  
 
 ---
 
 ## 📌 Key Functionalities
 
-- Tab switching using JavaScript  
-- CSS animations and transitions  
-- Dynamic content display  
-- Clean UI structure  
+- Tab switching using CSS  
+- Animation effects with transitions  
+- Clean UI without JavaScript  
+- Fast and lightweight  
 
 ---
 
@@ -84,8 +82,8 @@ xdg-open index.html
 
 - 🎨 Add more animation styles  
 - 🌙 Dark mode support  
-- ⚙️ Customizable tabs  
-- 📱 Enhanced mobile interactions  
+- ⚙️ More customizable tabs  
+- 📱 Enhanced mobile UI  
 
 ---
 
