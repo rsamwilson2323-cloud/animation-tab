@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CSS Transform Hover Effects</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="wrapper">
+
+  <!-- WINDOW DOTS -->
+  <div class="window-bar">
+    <div class="dot yellow"></div>
+    <div class="dot red"></div>
+    <div class="dot green"></div>
+  </div>
+
+  <!-- ROWS -->
+  <div class="row">
+    <div class="box pink translateX"></div>
+    <div class="code-box"><pre>
+.translateX:hover {
+  transform: translateX(100px);
+}
+</pre></div>
+  </div>
+
+  <div class="row">
+    <div class="box blue scaleX"></div>
+    <div class="code-box"><pre>
+.scaleX:hover {
+  transform: scaleX(1.5);
+}
+</pre></div>
+  </div>
+
+  <div class="row">
+    <div class="box pink scale"></div>
+    <div class="code-box"><pre>
+.scale:hover {
+  transform: scale(1.3);
+}
+</pre></div>
+  </div>
+
+  <div class="row">
+    <div class="box blue rotate"></div>
+    <div class="code-box"><pre>
+.rotate:hover {
+  transform: rotate(360deg);
+}
+</pre></div>
+  </div>
+
+  <div class="row">
+    <div class="box pink rotateX"></div>
+    <div class="code-box"><pre>
+.rotateX:hover {
+  transform: rotateX(360deg);
+}
+</pre></div>
+  </div>
+
+  <div class="row">
+    <div class="box blue rotateY"></div>
+    <div class="code-box"><pre>
+.rotateY:hover {
+  transform: rotateY(360deg);
+}
+</pre></div>
+  </div>
+
+</div>
+
+</body>
+</html>
